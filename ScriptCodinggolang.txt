@@ -1,0 +1,33 @@
+Script Codinggolang
+
+# First day of coding
+
+Good night everyone, my name is João and let's start the challenge.
+
+I’m a beginner, so if you disagree with anything that you disagree feel free to chat with me, probably we will get some knowledge together!
+
+Why am I doing this? Because I’m trying to become a developer and a better professional, and in my point of view, a professional needs to contribute with the community, 
+I know that most of us want to become a developer to stay alone in a room without talking to anyone, but that is not how it works. 
+As a developer we hardly ever will build something all by yourself, most of the time we will work in teams, it can be difficult but that’s part of the work.
+
+---
+
+# Second day of coding
+
+## The go programming language
+
+So let’s talk about what really matter, the language I choose to start is Go or Golang.
+So why golang?
+Go is a language made by google that focus on performance and a simple syntax.
+
+Here the link with the roadmap that I will follow.
+
+[Learn to become a Go developer](https://roadmap.sh/golang)
+
+As you can see in the roadmap it is not that easy, we have a lot of work to do, there are some topics that I don’t have any idea what they are, 
+but I will try to understand them and explain here the easiest way that I can.
+I will make my scripts and share them on GitHub.
+
+---
+
+# Thirt day of coding
