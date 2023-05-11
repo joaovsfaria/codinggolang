@@ -30,4 +30,50 @@ I will make my scripts and share them on GitHub.
 
 ---
 
-# Thirt day of coding
+# Third day of coding
+
+### Hello world!
+
+So today I’m going to make my first functional program in Golang, with this few lines of code we can see a lot about how does this language works.
+
+```go
+package main
+
+import "fmt"
+
+func main() {
+fmt.Println("Hello, world!")
+}
+```
+
+You can run simple programs like this on Go Playground, where you don’t need to install anything to use it:
+
+[Go Playground - The Go Programming Language](https://go.dev/play/)
+
+What does it means all those words that I wrote?
+
+- package
+
+A golang program is built based on packages. The package “main” tells the compiler  that the package should compile as an executable program.
+
+- import
+
+There are packages already builds that we can use to make our daily work easy. We can import them in our code and use it’s functions. Package “fmt” is one of the most basic important package that we will use everyday. This package will allow us to “print” to the screen and “scan” from the user.
+
+- func main
+
+Func means function, we will see a lot of it in this challenge, but for now we need to know that our program will start with the this func and will finish with it too.
+
+- fmt.Println()
+
+In order to use other packages function we need to call them.
+
+How do I  use a func from other packages?
+
+First we need to call the package, this time is the fmt.
+
+Second we cal the function by its name, in this case we will call Println()
+
+Notice that the func should start with a capital letter.
+
+We separate the name of the package and the name of the func by a dot.
